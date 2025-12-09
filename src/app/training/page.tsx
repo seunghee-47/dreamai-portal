@@ -39,7 +39,7 @@ export default function TrainingPage() {
 
       {/* 훈련 신청 - 새 컴포넌트로 교체! */}
       <TrainingCheckinSection data={checkin} />
-
+      
       {/* 훈련 로드맵 */}
       <div className="mb-20">
         <h2 className="text-3xl font-bold mt-[150px] pl-4 border-l-4 border-blue-500">
