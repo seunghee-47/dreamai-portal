@@ -71,23 +71,13 @@ export default function TrainingCheckinSection({ data }: TrainingCheckinSectionP
             <div className="text-gray-700 text-sm leading-relaxed space-y-4">
               <div className="bg-blue-50/50 border border-blue-100 rounded-lg p-4">
                 <p className="text-gray-900 font-bold mb-2">
-                  1. 꿈꾸는아이(AI) Digital Twin 직무혁신
+                  1. 에이전틱 AI: 이제 '프롬프트' 대신 '행동'으로
                 </p>
                 <p className="text-gray-600 text-sm">
-                  2026.03.26 (목) 14:00~18:00 (4시간)
+                  2026.04.17 (금) 13:00~17:00 (4시간)
                 </p>
               </div>
-
-              <div className="text-gray-700 text-sm leading-relaxed space-y-4">
-              <div className="bg-blue-50/50 border border-blue-100 rounded-lg p-4">
-                <p className="text-gray-900 font-bold mb-2">
-                  2. 디지털트윈 환경 구축과 시뮬레이션 실습 과정
-                </p>
-                <p className="text-gray-600 text-sm">
-                  2026.03.27 (금) 14:00~18:00 (4시간)
-                </p>
-              </div>
-              </div>
+    
 
               <p className="pt-3 border-t border-gray-100 mt-4">
                 교육 과정에 관심 있는 분들의 많은 참여 부탁드립니다.
@@ -104,7 +94,7 @@ export default function TrainingCheckinSection({ data }: TrainingCheckinSectionP
           {/* 버튼 영역 */}
           <div className="flex flex-col gap-3 mt-4">
             <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLSeqYk80Xa0KAWffXTYLJuxPqWuJMU4Td8K6cUcqAucUqPtXag/viewform?usp=dialog"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSeXvkz9HMLKcZpcS0SvWeEWcQ_KQcNO5I6jtN4zRwi60nOxrQ/viewform?usp=dialog"
               target="_blank"
               rel="noopener noreferrer"
               className="block text-center px-6 py-4 rounded-xl text-sm font-semibold
