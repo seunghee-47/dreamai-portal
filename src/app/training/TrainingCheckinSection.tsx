@@ -63,21 +63,31 @@ export default function TrainingCheckinSection({ data }: TrainingCheckinSectionP
             </div>
           </div>
     
-          {/* 공지사항  */}
-          <div className="rounded-xl p-2">
+           {/* 공지사항  */}
+           <div className="rounded-xl p-2">
             <h4 className="text-gray-900 font-bold text-base mb-3">
               진행 예정 과정
             </h4>
             <div className="text-gray-700 text-sm leading-relaxed space-y-4">
               <div className="bg-blue-50/50 border border-blue-100 rounded-lg p-4">
                 <p className="text-gray-900 font-bold mb-2">
-                  1. 에이전틱 AI: 이제 '프롬프트' 대신 '행동'으로
+                  1. Omniverse 기반 Sim2Real Digital Twin 실습1
                 </p>
                 <p className="text-gray-600 text-sm">
-                  2026.04.17 (금) 13:00~17:00 (4시간)
+                  2026.04.23 (목) 14:00~18:00 (4시간)
                 </p>
               </div>
-    
+
+              <div className="text-gray-700 text-sm leading-relaxed space-y-4">
+              <div className="bg-blue-50/50 border border-blue-100 rounded-lg p-4">
+                <p className="text-gray-900 font-bold mb-2">
+                2. Omniverse 기반 Sim2Real Digital Twin 실습2
+                </p>
+                <p className="text-gray-600 text-sm">
+                  2026.04.24 (금) 14:00~18:00 (4시간)
+                </p>
+              </div>
+              </div>
 
               <p className="pt-3 border-t border-gray-100 mt-4">
                 교육 과정에 관심 있는 분들의 많은 참여 부탁드립니다.
@@ -94,7 +104,7 @@ export default function TrainingCheckinSection({ data }: TrainingCheckinSectionP
           {/* 버튼 영역 */}
           <div className="flex flex-col gap-3 mt-4">
             <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLSeXvkz9HMLKcZpcS0SvWeEWcQ_KQcNO5I6jtN4zRwi60nOxrQ/viewform?usp=dialog"
+              href="https://forms.gle/9Qrt6vAX3hdrxoMc7"
               target="_blank"
               rel="noopener noreferrer"
               className="block text-center px-6 py-4 rounded-xl text-sm font-semibold
