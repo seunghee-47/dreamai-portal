@@ -75,6 +75,13 @@
         "imageUrl": "/images/category/category_newsac.png",
         "url": "/newsac",
         "height": "sm"
+      },
+      {
+        "name": "AIAmbassador",
+        "title": "AIAmbassador",
+        "imageUrl": "/images/category/category_ai_ambassador.png",
+        "url": "https://ambassador-digital-twin.vercel.app/",
+        "height": "sm"
       }
     ],
     "categoriesRight": [
