@@ -353,7 +353,7 @@ const s: Record<string, React.CSSProperties> = {
     border: "1px solid #ddd6fe",
     borderBottom: "1px solid #fff",   /* 카드 위쪽 테두리를 덮어 이음 */
     marginBottom: -1,                 /* 카드 border와 1px 겹쳐서 이음새 제거 */
-    paddingBottom: 13,
+    padding: "11px 26px 13px",
     zIndex: 2,
     position: "relative" as const,
   },
